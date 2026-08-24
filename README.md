@@ -16,7 +16,8 @@ AIを活用したシステム開発、開発プロトコルの策定、および
 
 ### 📝 Blogs & Community (情報発信・リンク)
 
-- 📖 **[note](https://note.com/tk030_lotto)**：開発ドキュメンタリー、思考プロセス、試行錯誤の全記録
+- 🛠️ **[My Tools (公開ツール一覧)](https://tk030-lotto.github.io/my-tools/)**：AIと一緒に作った公開ツールカタログ（「面倒だったから、作ってみた。」）
+- 📖 **[note](https://note.com/zero_ai_dev)**：開発ドキュメンタリー、思考プロセス、試行錯誤の全記録
 - 🐤 **[X (Twitter)](https://x.com/tk030_lotto)**：日々の開発進捗・リアルタイムな気付き
 
 ---
